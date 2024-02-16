@@ -1,0 +1,26 @@
+body{
+    background-color: chocolate;
+    font-style: oblique;
+
+}
+
+footer{
+    background-color: wheat;
+    font-style: italic;
+    text-align: center;
+
+}
+
+aside{
+    background-color: black;
+    color: aliceblue;
+    
+}
+
+nav{
+    background-color: green;
+    text-align: center;
+    color: darkred;
+    line-break: auto;
+}
+
